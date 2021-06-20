@@ -1,0 +1,250 @@
+@import url('https://cdn-uicons.flaticon.com/uicons-regular-rounded/css/uicons-regular-rounded.css');
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(34, 31, 31);
+}
+@keyframes example {
+    from {background-color: rgb(34, 31, 31);color: rgb(34, 31, 31);}
+    to {background-color: rgb(58, 52, 52);color: rgb(255, 255, 255);}
+}
+.head {
+    position: relative;
+    width: 70%;
+    height: 100px;
+    margin: 0px 0px 0px 15%;
+    background-color: rgb(58, 52, 52);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#txt {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 4em;
+    text-align: center;
+    margin-top: 10px;
+    color: #fff;
+    background-color: rgb(58, 52, 52);
+    border-radius: 30px;
+}
+.menu {
+    position: fixed;
+    top: 10%;
+    right: 0;
+    background-color: rgb(58, 52, 52);
+    padding: 5% 20px;
+    border-radius: 20px;
+}
+.fi-rr-circle {
+    font-size: 5em;
+    color: #fff;
+    background-color: rgb(58, 52, 52);
+}
+.menu-bar {
+    background-color: rgb(58, 52, 52);
+    height: 180px;
+    position: fixed;
+    bottom: 0;
+    width: 90%;
+    border-radius: 30px;
+    padding: 8px 16px;
+    margin: 20px 10px 30px 35px;
+    z-index: 1;
+}
+.menu-a {
+    background-color: rgb(58, 52, 52);
+    height: 400px;
+    position: absolute;
+    top: 400px;
+    width: 90%;
+    border-radius: 30px;
+    padding: 8px 16px;
+    margin: 20px 10px 30px 35px;
+    z-index: 1;
+    display: none;
+    animation-name: example;
+    animation-duration: 3s;
+}
+.fi-rr-clip {
+    font-size: 7em;
+    color: #fff;
+    background-color: rgb(58, 52, 52);
+    position: absolute;
+    top: 150px;
+    left: 100px;
+    animation-name: example;
+    animation-duration: 3s;
+}
+.fi-rr-opacity {
+    font-size: 7em;
+    color: #fff;
+    background-color: rgb(58, 52, 52);
+    position: absolute;
+    top: 150px;
+    left: 300px;
+    animation-name: example;
+    animation-duration: 3s;
+}
+.fi-rr-dollar {
+    font-size: 7em;
+    color: #fff;
+    background-color: rgb(58, 52, 52);
+    position: absolute;
+    top: 150px;
+    left: 500px;
+    animation-name: example;
+    animation-duration: 3s;
+}
+.fi-rr-angle-right {
+    font-size: 7em;
+    color: #fff;
+    background-color: rgb(58, 52, 52);
+    position: absolute;
+    top: 150px;
+    left: 700px;
+    animation-name: example;
+    animation-duration: 3s;
+}
+.menu-date {
+    width: 75%;
+    position: fixed;
+    top: 10%;
+    left: 30px;
+    background-color: rgb(58, 52, 52);
+    padding: 5.3% 20px;
+    border-radius: 20px;
+}
+#time {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 4em;
+    text-align: center;
+    margin-top: 10px;
+    color: #fff;
+    background-color: rgb(58, 52, 52);
+    border-radius: 30px;
+}
+.app {
+    position: relative;
+    top: 350px
+}
+.a {
+    background-color: rgb(58, 52, 52);
+}
+#app {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+}
+#app2 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+}
+#app3 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+}
+#app4 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+}
+#app5 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app6 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app7 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app8 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app9 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app10 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app11 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app12 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app13 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app14 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app15 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app16 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 70px;
+}
+#app17 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 10px;
+    margin-top: 15px;
+    background-color: rgb(58, 52, 52);
+}
+#app18 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 15px;
+}
+#app19 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 15px;
+    background-color: rgb(58, 52, 52);
+}
+#app20 {
+    width: 150px;
+    border-radius: 40px;
+    margin-left: 70px;
+    margin-top: 15px;
+    background-color: rgb(58, 52, 52);
+}
